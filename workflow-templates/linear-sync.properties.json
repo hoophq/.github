@@ -1,0 +1,6 @@
+{
+  "name": "Sync issues to Linear",
+  "description": "Create a Linear card (Support → Triage) whenever a new issue is opened here, and comment the link back. One-way, creation-only.",
+  "iconName": "octicon-issue-opened",
+  "categories": ["Automation"]
+}
